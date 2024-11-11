@@ -32,17 +32,16 @@
       "versionDescription": ""
     },
     {
-      {
-  "name": "ChatGPT",
-  "bundleIdentifier": "com.zirek.store.chatgpt",
-  "developerName": "ZIREK STORE",
-  "version": "1.2024.2",
-  "versionDate": "2024-11-11",
-  "downloadURL": "https://www.dropbox.com/scl/fi/3pfi61htkx59a38qme13m/ChatGPT_1.2024.200-iOS-16.3.ipa?rlkey=p3h9aoe36e0llh47mzl67y8gz&st=m0ocdplh&dl=1",
-  "localizedDescription": "ChatGPT for iOS 16.3 and Older",
-  "iconURL": "https://i.imgur.com/vM4Z3or.png",
-  "size": 33389824
-}
+      "name": "ChatGPT",
+      "bundleIdentifier": "com.zirek.store.chatgpt",
+      "developerName": "ZIREK STORE",
+      "version": "1.2024.2",
+      "versionDate": "2024-11-11",
+      "downloadURL": "https://www.dropbox.com/scl/fi/3pfi61htkx59a38qme13m/ChatGPT_1.2024.200-iOS-16.3.ipa?rlkey=p3h9aoe36e0llh47mzl67y8gz&st=m0ocdplh&dl=1",
+      "localizedDescription": "ChatGPT for iOS 16.3 and Older",
+      "iconURL": "https://i.imgur.com/vM4Z3or.png",
+      "size": 33389824
+    }
   ],
   "identifier": "com.example.source",
   "name": "ZIREK+",
