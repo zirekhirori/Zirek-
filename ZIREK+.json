@@ -1,0 +1,50 @@
+{
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "ZIREK STORE",
+      "downloadURL": "https:\\/\\/ipa.cypwn.xyz\\/ipas\\/Regram_1.0-b10_351.0.1.ipa",
+      "iconURL": "https:\\/\\/ipa.cypwn.xyz\\/serve\\/icons\\/Regram_1.0-b10_351.0.1.png",
+      "localizedDescription": "Regram_b10_351.0.1\nCracked By Sezo",
+      "name": "Regram b10",
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/705880/65605563-2f009d00-df5e-11e9-9b40-1f36135d5c80.PNG",
+        "https://user-images.githubusercontent.com/705880/65605569-30ca6080-df5e-11e9-8dfb-15ebb00e10cb.PNG",
+        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
+      ],
+      "size": 173015040,
+      "subtitle": "Regram cracked by Sezo",
+      "tintColor": "FFC300",
+      "version": "351.0.1",
+      "versionDate": "2024-10-03",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "Zirek",
+      "downloadURL": "https://www.dropbox.com/scl/fi/gou24yg9lbqvffbrge2r5/Spotify-Full-Premium.ipa?rlkey=rxccbi5vl11gsbaccffvpqlj5&st=4rgwpaii&dl=1",
+      "iconURL": "https://i.imgur.com/7ZoOHtC.jpeg",
+      "localizedDescription": "Full Premium!",
+      "name": "Spotify",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "Full Premium",
+      "tintColor": "018084",
+      "version": "8.5.77",
+      "versionDate": "11/11/2024",
+      "versionDescription": ""
+    }
+  ],
+  "identifier": "com.example.source",
+  "name": "ZIREK+",
+   "subtitle": "Only Favorite Apps",
+    "META": {
+        "repoName": "ZIREK+",
+        "repoIcon": "https://i.ibb.co/qsXs97f/IMG-0189.jpg",
+  "news": [],
+  "userInfo": {}
+}}
