@@ -1,8 +1,8 @@
 {
     "name": "ZIREK+",
-    "sourceURL": "https://github.com/zirekhirori/Zirek-/blob/45db1bdc13aa63c6ad0be34b0bc969adb16dbd55/Zirek%20json.json",
+    "sourceURL": "https://github.com/zirekhirori/Zirek-/blob/45db1bdc13aa63c6ad0be34b0bc969adb16dbd55/Zirek-json.json",
     "iconURL": "https://i.ibb.co/qsXs97f/IMG-0189.jpg",
-    "website": "https://github.com/zirekhirori/Zirek-/blob/45db1bdc13aa63c6ad0be34b0bc969adb16dbd55/Zirek%20json.json",
+    "website": "https://github.com/zirekhirori/Zirek-/blob/45db1bdc13aa63c6ad0be34b0bc969adb16dbd55/Zirek-json.json",
     "subtitle": "Only Favorite Apps",
     "META": {
         "repoName": "ZIREK+",
@@ -14,7 +14,7 @@
             "type": 1,
             "bundleID": "com.spotify.client",
             "version": "8.5.77",
-            "versionDate": "11-11-2024",
+            "versionDate": "2024-11-11",
             "size": 37144444,
             "downloadURL": "https://www.dropbox.com/scl/fi/gou24yg9lbqvffbrge2r5/Spotify-Full-Premium.ipa?rlkey=rxccbi5vl11gsbaccffvpqlj5&st=4rgwpaii&dl=1",
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.spotify.client.png",
