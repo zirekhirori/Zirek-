@@ -8,7 +8,6 @@
       "iconURL": "https://ipa.cypwn.xyz/serve/icons/Regram_1.0-b10_351.0.1.png",
       "localizedDescription": "Regram_b10_351.0.1\nCracked By Sezo",
       "name": "Regram b10",
-      ],
       "size": 173015040,
       "subtitle": "Regram cracked by Sezo",
       "tintColor": "FFC300",
@@ -24,23 +23,22 @@
       "iconURL": "https://i.imgur.com/7ZoOHtC.jpeg",
       "localizedDescription": "Full Premium!",
       "name": "Spotify",
-      "screenshotURLs": [
-        ""
-      ],
+      "screenshotURLs": [],
       "size": 2184796,
       "subtitle": "Full Premium",
       "tintColor": "018084",
       "version": "8.5.77",
-      "versionDate": "11/11/2024",
+      "versionDate": "2024-11-11",
       "versionDescription": ""
     }
   ],
   "identifier": "com.example.source",
   "name": "ZIREK+",
-   "subtitle": "Only Favorite Apps",
-    "META": {
-        "repoName": "ZIREK+",
-        "repoIcon": "https://i.ibb.co/qsXs97f/IMG-0189.jpg",
-  "news": [],
-  "userInfo": {}
-}}
+  "subtitle": "Only Favorite Apps",
+  "META": {
+    "repoName": "ZIREK+",
+    "repoIcon": "https://i.ibb.co/qsXs97f/IMG-0189.jpg",
+    "news": [],
+    "userInfo": {}
+  }
+}
