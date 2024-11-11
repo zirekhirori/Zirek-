@@ -2,15 +2,14 @@
     "name": "ZIREK+",
     "sourceURL": "https://github.com/zirekhirori/Zirek-/blob/45db1bdc13aa63c6ad0be34b0bc969adb16dbd55/Zirek%20json.json",
     "iconURL": "https://i.ibb.co/qsXs97f/IMG-0189.jpg",
-    "website": "https://github.com",
+    "website": "https://github.com/zirekhirori/Zirek-/blob/45db1bdc13aa63c6ad0be34b0bc969adb16dbd55/Zirek%20json.json",
     "subtitle": "Only Favorite Apps",
     "META": {
         "repoName": "ZIREK+",
         "repoIcon": "https://i.ibb.co/qsXs97f/IMG-0189.jpg"
     },
     "apps": [
-
-     {
+        {
             "name": "Spotify",
             "type": 1,
             "bundleID": "com.spotify.client",
@@ -20,4 +19,6 @@
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.spotify.client.png",
             "developerName": "ZIREK STORE",
             "localizedDescription": "Premium Unlocked✅"
-        }]}
+        }
+    ]
+}
