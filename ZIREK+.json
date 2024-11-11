@@ -42,7 +42,23 @@
       "localizedDescription": "ChatGPT for iOS 16.3 and Older",
       "iconURL": "https://i.imgur.com/vM4Z3or.png",
       "size": 33389824
-    }
+    },
+    {
+  "beta": false,
+  "bundleIdentifier": "com.wisedevs.wisecurrency",
+  "developerName": "ZIREK STORE",
+  "downloadURL": "https://www.dropbox.com/scl/fi/rpew3qjc3ttuem8ql1pfc/_4.0.0_1731300572.ipa?rlkey=fszb3gn007dndqeukrlarnhui&st=4r3ekuqp&dl=1",
+  "iconURL": "https://i.imgur.com/zbl0fxH.png",
+  "localizedDescription": "Bazari Dollar 4.0 - A finance management app",
+  "name": "بازارى دولار",
+  "size": 173015040,
+  "subtitle": "Finance app for dollar management",
+  "version": "4.0",
+  "versionDate": "2024-11-11",
+  "categories": ["Finance"],
+  "versionDescription": ""
+}
+    {
   ],
   "identifier": "com.example.source",
   "name": "ZIREK+",
