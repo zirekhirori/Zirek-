@@ -13,8 +13,7 @@
       "tintColor": "FFC300",
       "version": "351.0.1",
       "versionDate": "2024-10-03",
-      "categories": ["Social Media"],
-      "versionDescription": ""
+      "categories": ["Social Media"]
     },
     {
       "beta": false,
@@ -24,13 +23,11 @@
       "iconURL": "https://i.imgur.com/7ZoOHtC.jpeg",
       "localizedDescription": "Full Premium!",
       "name": "Spotify",
-      "screenshotURLs": [],
-      "size": 2184796,
+      "size": 150000000,
       "subtitle": "Full Premium",
       "tintColor": "018084",
       "version": "8.5.77",
-      "versionDate": "2024-11-11",
-      "versionDescription": ""
+      "versionDate": "2024-11-11"
     },
     {
       "name": "ChatGPT",
@@ -55,8 +52,7 @@
       "subtitle": "Finance app for dollar management",
       "version": "4.0",
       "versionDate": "2024-11-11",
-      "categories": ["Finance"],
-      "versionDescription": ""
+      "categories": ["Finance"]
     }
   ],
   "identifier": "com.example.source",
