@@ -8,8 +8,6 @@
         "repoName": "ZIREK+",
         "repoIcon": "https://i.ibb.co/qsXs97f/IMG-0189.jpg"
     },
-
-
     "apps": [
 
      {
@@ -22,4 +20,4 @@
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/com.spotify.client.png",
             "developerName": "ZIREK STORE",
             "localizedDescription": "Premium Unlocked✅"
-        },
+        }]}
